@@ -1,0 +1,13 @@
+
+target/
+dbt_packages/
+logs/
+.env
+.p8
+logs/
+dbt_packages/
+__pycache__
+!dbt/seeds/*.csv
+dbt_internal_packages/
+data/raw/*.
+*.duckdb
