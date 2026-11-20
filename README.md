@@ -1,4 +1,4 @@
-#Frieght Audit Pipeline
+#Freight Audit Pipeline
 
 ## OVERVIEW
 
@@ -20,4 +20,4 @@ _To be added_
 
 ## RESULTS
 
-_To be added_S
+_To be added_
