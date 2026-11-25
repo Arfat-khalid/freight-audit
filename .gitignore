@@ -1,9 +1,8 @@
-
 target/
 dbt_packages/
 logs/
 .env
-.p8
+*.p8
 logs/
 dbt_packages/
 __pycache__
@@ -11,3 +10,6 @@ __pycache__
 dbt_internal_packages/
 data/raw/*.
 *.duckdb
+.venv/
+venv/
+.ruff_cache/
